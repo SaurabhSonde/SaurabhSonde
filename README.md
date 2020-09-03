@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**SaurabhSonde/SaurabhSonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm [Saurabh]() <img src="" width= 30px>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="" class="center" width= 50%>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saurabh-sonde-32bb38190)
+![Follow on Twitter](https://img.shields.io/twitter/follow/sonde_saurabh?label=Follow&style=social)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaurabhSonde)
+
+![Saurabh's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSonde&layout=compact)
+
+![Saurabh's Github Stats](https://github-readme-stats.vercel.app/api?username=SaurabhSonde&show_icons=true)
