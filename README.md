@@ -9,7 +9,6 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saurabh-sonde-32bb38190)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/sonde_saurabh?label=Follow&style=social)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SaurabhSonde)
 
 ![Saurabh's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSonde&layout=compact)
