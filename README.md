@@ -2,7 +2,7 @@
 # Hey! I'm [Saurabh]() <img src="" width= 30px>
 
 <p align="center">
-<img src="Intro.mp4" class="center" width= 50%>
+<img src="https://github.com/SaurabhSonde/SaurabhSonde/blob/master/Intro.mp4" class="center" width= 50%>
 </p>
 
 
