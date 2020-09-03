@@ -2,7 +2,7 @@
 # Hey! I'm [Saurabh]() <img src="https://github.com/SaurabhSonde/SaurabhSonde/blob/master/smiley.gif" width= 30px>
 
 <p align="center">
-<img src="https://github.com/SaurabhSonde/SaurabhSonde/blob/master/Programming-pana.svg" class="center" width= 50%>
+<img src="https://github.com/SaurabhSonde/SaurabhSonde/blob/master/Programming-rafiki.png" class="center" width= 50%>
 </p>
 
 
