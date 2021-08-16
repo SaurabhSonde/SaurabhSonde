@@ -17,7 +17,7 @@ I love to watch netflix it is the only thing which i do when i am not building a
 ![Profile Views](https://komarev.com/ghpvc/?username=SaurabhSonde)
 
 ![Saurabh's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSonde&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketS01&langs_count=10&theme=light&layout=compact)](https://github.com/SaurabhSonde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSonde&langs_count=10&theme=light&layout=compact)](https://github.com/SaurabhSonde/github-readme-stats)
 
 ![Saurabh's Github Stats](https://github-readme-stats.vercel.app/api?username=SaurabhSonde&show_icons=true)
 
