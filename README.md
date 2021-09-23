@@ -1,5 +1,7 @@
 
 # Hey! I'm [Saurabh]() <img src="https://github.com/SaurabhSonde/SaurabhSonde/blob/master/smiley.gif" width= 30px>
+- 🎯 A Full Stack Developer.
+- 🌱 Currently learning iOS.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saurabh-sonde-32bb38190)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/sonde_saurabh?label=Follow&style=social)
