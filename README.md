@@ -9,9 +9,6 @@
 
 <a href="https://www.buymeacoffee.com/saurabhsonde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 55px !important;width: 180px !important;" ></a>
 
-![Saurabh's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSonde&layout=compact)
-
-![Saurabh's Github Stats](https://github-readme-stats.vercel.app/api?username=SaurabhSonde&show_icons=true)
 
 ## Some of my intresting projects
 [Pixler Api](https://pixler.vercel.app/) - One api for all your emoji needs.</br>
